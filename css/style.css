@@ -91,7 +91,7 @@ li + .iteam {
   color: #000000;
 }
 
-.nav-link.active {
+.header-nav-link.active {
   color: var(--hover-color);
 }
 
@@ -214,7 +214,7 @@ img {
 }
 
 li + .work-items {
-  padding-left: 30px;
+  margin-left: 30px;
 }
 
 .work-list {
@@ -298,6 +298,10 @@ li + .team-card {
 
 .footer-logo-text {
   color: var(--tertiary-color);
+}
+
+.footer-all {
+  margin-top: 20px;
 }
 
 .address {
